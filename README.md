@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-data-course-project-LM
 Repository that includes the material for the final assignment of the course "Getting and Cleaning data"
 
-1. CodeBookLM.md is a code book that includes the data link for downloading and the name of the folder. Then it describes the variables and the transformations that I performed to clean up the data.
+1. CodeBook.md is a code book that includes the data link for downloading and the name of the folder. Then it describes the variables and the transformations that I performed to clean up the data.
 
 2. run_analysis.R includes the code used to fullfill specific indications:
    
